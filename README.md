@@ -1,7 +1,7 @@
 node-resemble-v2
 =============
 
-A new Node port of [Resemble.js v2](https://github.com/Huddle/Resemble.js).
+A new Node port of [Resemble.js v2](https://github.com/Huddle/Resemble.js) (original source [node-resemble](https://github.com/ddo/node-resemble))
 
 ##Installation
 
