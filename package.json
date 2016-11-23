@@ -1,0 +1,27 @@
+{
+  "name": "node-resemble-v2",
+  "version": "1.0.0",
+  "description": "Node API for ResembleJS (v2)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/peter-mouland/node-resemble-v2.git"
+  },
+  "keywords": [
+    "resemblejs"
+  ],
+  "author": "Peter Mouland",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peter-mouland/node-resemble-v2/issues"
+  },
+  "homepage": "https://github.com/peter-mouland/node-resemble-v2#readme",
+  "dependencies": {
+    "canvas": "^1.6.2",
+    "image-type": "^2.1.0",
+    "resemblejs": "^2.2.2"
+  }
+}
