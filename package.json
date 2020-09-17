@@ -21,7 +21,7 @@
   "homepage": "https://github.com/peter-mouland/node-resemble-v2#readme",
   "dependencies": {
     "canvas": "^2.6.1",
-    "image-type": "^2.1.0",
+    "image-type": "^4.1.0",
     "resemblejs": "^v3.2.4"
   }
 }
