@@ -20,8 +20,8 @@
   },
   "homepage": "https://github.com/peter-mouland/node-resemble-v2#readme",
   "dependencies": {
-    "canvas": "^1.6.2",
+    "canvas": "^2.6.1",
     "image-type": "^2.1.0",
-    "resemblejs": "^2.2.2"
+    "resemblejs": "^v3.2.4"
   }
 }
